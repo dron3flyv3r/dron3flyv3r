@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kasper</h1>
-<h3 align="center">I am a 20 years, and i'm a Danish coder and photographer.</h3>
+<h3 align="center">I am a 20 years, and i'm a Danish programmer and engineering student in robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dron3flyv3r&label=stockers&color=7f0eb4&style=flat" alt="dron3flyv3r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dron3flyv3r" alt="dron3flyv3r" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning, K3S (Kubernetes) & Advanced Python**
+- 🌱 I’m currently learning **Machine learning & Engineering in robotics**
 
 - 👨‍💻 All of my projects are available at [https://kasperlarsen.tech/](https://kasperlarsen.tech/)
 
 - 📫 How to reach me **contact@kasperlarsen.tech**
 
-- ⚡ Fun fact **I think I'm funny and a good gamer**
+- ⚡ Fun fact **I think I'm funny and a good programmer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

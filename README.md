@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://dev.to/dron3flyv3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dron3flyv3r" height="30" width="40" /></a>
 <a href="https://instagram.com/droneflyver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="droneflyver" height="30" width="40" /></a>
-<a href="https://discord.gg/drone#6797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="drone#6797" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

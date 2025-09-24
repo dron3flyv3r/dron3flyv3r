@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@kasperlarsen.tech**
 
-- ⚡ Fun fact **I think I'm funny and a good programmer**
+- ⚡ Fun fact **I use arch BTW**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

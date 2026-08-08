@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kasperlarsen.tech/](https://kasperlarsen.tech/)
 
-- 📫 How to reach me **contact@kasperlarsen.tech**
-
 - ⚡ Fun fact **I use arch BTW**
 
 ### Blogs posts
